@@ -36,7 +36,7 @@ MAJOR LIBRARIES USED:
       5.MINSOM  // FOR DEEP LEARNING
 
 APIS USED:
-   1.FORSQUARE API:
+   1.FOURSQUARE API:
 
       we need to get geolocational data from the Foursquare API to find these people some accomodation!
       
